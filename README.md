@@ -16,7 +16,7 @@ The further Improvents to be made for week-2 are :
 - User can be able to download the predictions as a report (CSV).
 
 
-Week-2 Created a light interface Model that trains In less time
+Week-2 : Created a less complexity Model that trains In less time
 
 Further Improvements to be made :
 - Checking all other ways by changing various factors in such a way to get more accuracy while predicting
@@ -25,5 +25,11 @@ Final Model :
 
 - Created a Hybrid model which uses both convnextiny and efficientnet to train the model
 - The results are accurate for any input provided to the model but it is taking time to train the model.
+
+I created Two Models :
+
+1. Model which is lite structured and less time taking to train, Results are accurate
+2. Model which uses Hybrid ensemble, so that it takes time to Train, Results are very accurate 
+
 
 
